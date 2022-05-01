@@ -19,7 +19,7 @@ Harmony testnet address: 0x08a5ad96D9F9F7C032e0E54e3C521D42DEfdd277
   
   ###### e. betOn     - an enum instance; 0 for Head, 1 for Tail
   
-  ###### f. rand_v    - random variable (the same value not be used to decide win, this will be regenerated during draw)
+  ###### f. rand_v    - random variable (the same value will not be used to decide win, this will be regenerated during draw)
   
   ###### g. remAmount - the amount a player is left with
 
